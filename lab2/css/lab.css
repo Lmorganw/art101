@@ -1,0 +1,12 @@
+H1 {
+  color: yellow;
+  font-size: 500%;
+  background-color: Blue;
+  border: solid 5px;
+}
+p {
+  margin-left: 60px;
+}
+#content {
+  border: solid 3px black;
+}

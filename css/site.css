@@ -1,0 +1,12 @@
+
+
+  p {
+    color #336699;
+    font-weight: bold;
+  }
+
+  #callout {
+    backround-color: tan;
+    padding: 20px;
+    border: solid 1px black;
+  }
