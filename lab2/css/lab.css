@@ -1,6 +1,7 @@
 H1 {
   color: yellow;
   font-size: 500%;
+  font-family "papyrus", fantasy;
   background-color: Blue;
   border: solid 5px;
 }
@@ -9,4 +10,5 @@ p {
 }
 #content {
   border: solid 3px black;
+  background-color: #b2fffa;
 }
