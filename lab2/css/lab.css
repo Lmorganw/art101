@@ -4,6 +4,9 @@ H1 {
   font-family "papyrus", fantasy;
   background-color: Blue;
   border: solid 5px;
+  text-shadow: 0 0 25px black;
+  border-radius: 30px;
+  text-align: center;
 }
 p {
   margin-left: 60px;
@@ -11,4 +14,19 @@ p {
 #content {
   border: solid 3px black;
   background-color: #b2fffa;
+  font-family: fantasy;
+}
+<style>
+a:link, a:visited {
+  background-color: #ff0000;
+  color: black;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-decoration: none;
+}
+a {
+  margin-left: 100px;
+  text-decoration: none;
 }
