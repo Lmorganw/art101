@@ -16,3 +16,7 @@ p {
   background-color: #b2fffa;
   font-family: fantasy;
 }
+a {
+  text-indent: 150px;
+  color: yellow;
+}
