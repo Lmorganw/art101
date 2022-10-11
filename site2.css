@@ -1,10 +1,33 @@
 h1 {
   color: #0055ff;
+  background-color: #f6ff00
 }
 #my-portrait {
     width: 300px;
+    margin-left: 300px
+}
+#tiger-selfie {
+    width: 300px;
+    margin-right: 300px
 }
 div {
   background-color: #f6ff00;
-  border: solid 1px blue;
+  border: solid 5px blue;
+  text-align: center;
+  font-family: fantasy;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+ol {
+  text-align: center;
+}
+* {background-color: #33D4FF}
+p {
+  background-color: #f6ff00
+}
+a {
+  text-indent: 150px;
+  color: yellow;
+  background-color: blue;
+  border: solid 3px;
 }
