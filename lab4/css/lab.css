@@ -1,0 +1,44 @@
+#js-screenshot {
+  width: 500px
+}
+div {
+  background-color: #f6ff00;
+  border: solid 2px blue;
+  font-family: fantasy;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+h1 {
+  background-color: #f6ff00;
+  border: solid 2px blue;
+  font-family: fantasy;
+  text-align: center;
+}
+h2 {
+  background-color: #f6ff00;
+  border: solid 2px blue;
+  font-family: fantasy;
+  margin-right: 1100px;
+  margin-left: 100px;
+}
+* {background-color: #33D4FF}
+
+h3 {
+  background-color: #f6ff00;
+  margin-left: 400px;
+}
+p {
+  margin-left: 300px;
+}
+ol {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+pre {
+  margin-left: 400px;
+}
+img {
+  text-align: center;
+}
