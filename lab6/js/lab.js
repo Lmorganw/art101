@@ -3,15 +3,17 @@
  * Created:   10.17.2022
  */
  // define variables
- myTransport = ["car", "motorcycle", "carpooling", "bus"];
+ make = "Suzuki"
+ model = "DRZ-400"
+ color = "Yellow"
+ year = 2019;
 
- myMainRide = {
-     make = "Suzuki"
-     model = "DRZ-400"
-     color = "Yellow"
-     year = 2019;
-}
-//output
-document.writeln("myTransport" + myTransport + "<br>");
-document.writeln("myMainRide: <pre>",
-    JSON.stringify(myMainRide, null, '\t'), "</pre>");
+ //calculate
+ age = 2022 - year;
+
+ //output
+ document.writeln("Make: " + make + "<br>");
+ document.writeln("Model: " + model + "<br>");
+ document.writeln("Color: " + color + "<br>");
+ document.writeln("Year: " + year + "Year<br>");
+ document.writeln("Age: " + age + " Year<br>");
