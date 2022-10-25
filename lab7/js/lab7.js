@@ -17,8 +17,6 @@ function sortUserName() {
       // join array back to a string
   var nameSorted = nameArraySort.join('');
     console.log("nameSorted =", nameSorted);
-      // note that i could have done the above lines in a single line:
-      //  Username.tolower().split("").sort().join("")
       return nameSorted;
 }
 
