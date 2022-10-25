@@ -15,4 +15,3 @@ myMainRide = {
 document.writeln("my main ride is:", myTransport, "<br>");
 document.writeln("myMainRide: <pre>",
       JSON.stringify(myMainRide, null, '\t'), "</pre>");
-alert("Hello! I am an alert box!!");
