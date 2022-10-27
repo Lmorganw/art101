@@ -17,26 +17,7 @@ h2 {
 }
 * {background-color: #408000}
 
-h3 {
-  background-color: #604020;
-  margin-left: 100px;
-  border: solid 4px #ff9900;
-  font-family: fantasy;
-  margin-right: 1100px;
-  border-width: thick;
-  color: #ff9900;
-}
 p {
-  margin-left: 300px;
-  font-weight: bolder;
-  border: solid 4px #ff9900;
-  border-width: thick;
-  border-radius: 150px;
-  padding: 20px;
-  background-color: #604020;
-  color: #ff9900;
-}
-.output {
   margin-left: 300px;
   font-weight: bolder;
   border: solid 4px #ff9900;
