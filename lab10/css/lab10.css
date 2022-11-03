@@ -1,5 +1,5 @@
 h1 {
-  background-color: pink;
+  background-color: green;
   border: solid 4px blue;
   font-family: fantasy;
   text-align: center;
@@ -7,7 +7,7 @@ h1 {
   color: #ff9900;
 }
 h2 {
-  background-color: pink;
+  background-color: green;
   border: solid 4px blue;
   font-family: fantasy;
   margin-right: 1100px;
@@ -15,7 +15,7 @@ h2 {
   border-width: thick;
   color: #ff9900;
 }
-* {background-color: pink}
+* {background-color: green}
 
 p {
   margin-left: 300px;
@@ -24,6 +24,6 @@ p {
   border-width: thick;
   border-radius: 150px;
   padding: 20px;
-  background-color: pink;
+  background-color: green;
   color: #ff9900;
 }
