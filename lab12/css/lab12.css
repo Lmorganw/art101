@@ -1,0 +1,64 @@
+body {
+  background-image: url(https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F952%2F716%2Ff26.jpg);
+}
+div {
+  width: 50%;
+  height: 70%;
+  background-color: #7722e0;
+  margin-left: 25%;
+  border-radius: 40px;
+  text-align: center;
+  text-shadow: -3px 4px black;
+  color: #34eb71;
+  border: solid 4px #34eb71;
+  font-family: papyrus, fantasy;
+}
+#Challenge{
+background-color: #7722e0;
+border: solid 4px #34eb71;
+margin-left: 25%;
+color: #1377d4;
+text-align: center;
+width: 50%;
+height: 70%;
+border-radius: 40px;
+text-shadow: -3px 4px black;
+}
+#Problems{
+background-color: #7722e0;
+border: solid 4px #34eb71;
+margin-left: 25%;
+color: #106cc2;
+text-align: center;
+width: 50%;
+height: 70%;
+border-radius: 40px;
+text-shadow: -3px 4px black;
+}
+#Results{
+  background-color: #7722e0;
+  border: solid 4px #34eb71;
+  margin-left: 25%;
+  color: #106cc2;
+  text-align: center;
+  width: 50%;
+  height: 70%;
+  border-radius: 40px;
+  text-shadow: -3px 4px black;
+}
+h2 {
+  text-align: center;
+  font-family: papyrus, fantasy;
+  color: #34eb71;
+  text-shadow: -3px 4px black;
+  text-decoration: underline solid 3px black;
+}
+p {
+  text-align: center;
+  font-family: papyrus, fantasy;
+  text-align: center;
+  color: #34eb71;
+}
+#spongeG {
+  float: right;
+}
