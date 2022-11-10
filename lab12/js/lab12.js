@@ -1,6 +1,6 @@
 /*
 * author: Levi
-* Created: 11.9.2022
+* Created: 11.9.22
 */
 
 function sortingHat(str) {
